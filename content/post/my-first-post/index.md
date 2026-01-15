@@ -1,7 +1,7 @@
 ---
 title: On Psychometrics
 subtitle: KISS
-summary: A brief summary that appears in the blog list.
+summary: A high schooler writes better items than a PhD
 date: '2026-01-15'
 authors:
 - admin
