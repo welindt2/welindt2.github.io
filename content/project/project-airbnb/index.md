@@ -6,7 +6,7 @@ tags:
 - airbnb
 date: '2025-10-01'
 external_link: ''
-url_code: 'https://github.com/welindt2/AirBNBDashboard'
+url_code: 'https://welindt2.github.io/AirBNBDashboard/'
 url_pdf: ''
 url_slides: ''
 url_video: ''
