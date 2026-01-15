@@ -114,4 +114,4 @@ skills:
 
 ## About Me
 
-I am a PhD graduate from the University of Oregon with a specialization in educational data science. Please, for fuck's sake, give me a job.
+I am a PhD graduate from the University of Oregon with a specialization in educational data science.
