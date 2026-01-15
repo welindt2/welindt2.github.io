@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Longitudinal Research | Your Name</title>
-    <link>https://yourusername.github.io/tags/longitudinal-research/</link>
-      <atom:link href="https://yourusername.github.io/tags/longitudinal-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/longitudinal-research/</link>
+      <atom:link href="http://localhost:1313/tags/longitudinal-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Longitudinal Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yourusername.github.io/media/icon_hu_bf586d412669769d.png</url>
+      <url>http://localhost:1313/media/icon_hu_bf586d412669769d.png</url>
       <title>Longitudinal Research</title>
-      <link>https://yourusername.github.io/tags/longitudinal-research/</link>
+      <link>http://localhost:1313/tags/longitudinal-research/</link>
     </image>
     
     <item>
       <title>Stress and Coping Longitudinal Study</title>
-      <link>https://yourusername.github.io/project/ml-framework/</link>
+      <link>http://localhost:1313/project/ml-framework/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://yourusername.github.io/project/ml-framework/</guid>
+      <guid>http://localhost:1313/project/ml-framework/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This ongoing longitudinal project tracks 300 college students across their undergraduate years to understand how stress and coping strategies evolve over time and influence mental health outcomes. We collect data through:&lt;/p&gt;
 &lt;ul&gt;

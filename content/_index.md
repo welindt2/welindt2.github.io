@@ -23,7 +23,7 @@ sections:
       title: 'Research Overview'
       subtitle: ''
       text: |-
-        My research examines how social and psychological factors influence health and well-being across the lifespan. I use a combination of experimental methods, longitudinal surveys, and advanced statistical techniques to understand the complex interplay between personality, social relationships, and health outcomes. My work aims to identify modifiable factors that can promote resilience and positive health behaviors in diverse populations.
+        My research investigates things and sometimes other things but never both simultaneously
     design:
       columns: '1'
 

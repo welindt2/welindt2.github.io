@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Your Name
+title: Dillon Welindt
 
 # Full name (for SEO)
-first_name: Your
-last_name: Name
+first_name: Dillon
+last_name: Welindt
 
 # Status emoji (optional - delete if you don't want one)
 status:
@@ -17,53 +17,52 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student in Psychology
+role: PhD in Psychology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University Name
+  - name: University of Oregon
     url: https://www.university.edu/psychology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your.email@university.edu'
+    url: 'mailto:dillonwelindt@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yourusername
+    url: https://github.com/welindt2
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yourprofile
+    url: https://www.linkedin.com/in/dillon-welindt-phd-14ab9b3a
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=YOURSCHOLARID
+    url: https://scholar.google.com/citations?hl=en&user=uki99UUAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0000-0000-0000
 
 interests:
   - Social Psychology
   - Personality and Individual Differences
-  - Health Psychology
+  - Decision Theory
   - Quantitative Methods
 
 education:
   - area: PhD Psychology
     institution: University Name
-    date_start: 2021-09-01
-    date_end: ''
+    date_start: 2020-09-01
+    date_end: '20205-09-05'
     summary: |
-      Research on social cognition and health behavior change.
-      Advised by Prof. Advisor Name.
-  - area: BA Psychology
-    institution: Undergraduate University
-    date_start: 2017-09-01
-    date_end: 2021-05-31
+      Dimension Reduction for Psycholexical Investigations
+      Advised by Prof. Sara Weston
+  - area: BS Exercise Science
+    institution: University of Illinois
+    date_start: 2010-08-01
+    date_end: 2014-12-01
     summary: |
-      Graduated summa cum laude.
-      Honors thesis on stress and coping in college students.
+      Graduated
 
 work:
-  - position: Graduate Research Assistant
-    company_name: University Name
+  - position: Graduate Teaching Assistant
+    company_name: University of Oregon
     company_url: ''
     company_logo: ''
     date_start: 2021-09-01
@@ -115,8 +114,4 @@ skills:
 
 ## About Me
 
-I am a PhD student in Psychology at University Name, working with Prof. Advisor Name. My research examines how social and psychological factors influence health behavior and well-being. I use a combination of experimental methods, surveys, and longitudinal designs to understand these processes.
-
-I am particularly interested in how personality traits and social relationships shape health outcomes over time. My current projects investigate stress, coping, and resilience in diverse populations.
-
-Before starting my PhD, I completed my BA in Psychology at Undergraduate University, where I developed my passion for research through work in behavioral science labs and an honors thesis project.
+I am a PhD graduate from the University of Oregon with a specialization in educational data science. Please, for fuck's sake, give me a job.
